@@ -1,2 +1,2 @@
 # War-Squad
-Open Repository for Player || Mot License
+Open Repository for Player || Mit License
